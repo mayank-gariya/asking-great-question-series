@@ -162,6 +162,7 @@ This project is provided for educational and analytical purposes.
 **Mayank Gariya**  
 📧 Email: mayankgariya482@gmail.com  
 🔗 [GitHub Profile](https://github.com/mayank-gariya)
+live dashboard : https://dribbble.com/shots/27379193-Dashboard?added_first_shot=true
 
 ---
 
