@@ -17,6 +17,7 @@ This project provides a comprehensive analysis of artificial intelligence's impa
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postgress](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -25,6 +26,7 @@ This project provides a comprehensive analysis of artificial intelligence's impa
 - **NumPy** - Numerical computing
 - **Matplotlib & Seaborn** - Data visualization
 - **Power BI** - Interactive dashboard and reporting
+- **postgress** - querries from data 
 - **Python 3** - Programming language
 
 ---
@@ -37,6 +39,7 @@ Day-2/
 ├── ai_workforce_displacement_global_2020_2026.csv # Comprehensive dataset
 ├── dashboard.pbix                                 # Power BI interactive dashboard
 ├── 2020 to 2026 AI report.docx                   # Detailed written report
+├── sql querry                                    # querries in three section - basic , intermediate and window functions 
 └── README.md                                      # This file
 ```
 
