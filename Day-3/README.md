@@ -5,6 +5,29 @@
 This project presents a comprehensive analysis of e-commerce operations through strategic data analytics. It combines customer behavior insights, transaction patterns, and campaign performance metrics to drive business intelligence and decision-making.
 
 ---
+## 🛠️ Technologies & Libraries Used
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postgress](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### Key Libraries:
+- **Pandas** - Data manipulation and analysis
+- **NumPy** - Numerical computing
+- **Matplotlib & Seaborn** - Data visualization
+- **Power BI** - Interactive dashboard and reporting
+- **postgress** - querries from data 
+- **Python 3** - Programming language
+
 
 ## 🎯 Design Reference
 
