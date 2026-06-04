@@ -6,7 +6,7 @@ import streamlit.components.v1 as components
 st.set_page_config(layout="wide")
 
 # 1. Update this to your exact filename
-html_file_path = "amazon_topics_visualization.html"
+html_file_path = "topic modeling/amazon_topics_visualization.html"
 
 try:
     # 2. Read the file with safe UTF-8 encoding
